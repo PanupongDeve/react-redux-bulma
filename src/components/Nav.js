@@ -76,7 +76,7 @@ const Nav = () => {
               <a class="navbar-link " href="http://bulma.io/blog/">
                 Blog
               </a>
-              <div id="blogDropdown" class="navbar-dropdown is-boxed" >
+              <div  class="navbar-dropdown is-boxed" >
                 
                   <a class="navbar-item" href="/2017/08/03/list-of-tags/">
                     <div class="navbar-content">
